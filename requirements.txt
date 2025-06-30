@@ -1,0 +1,1 @@
+# Follow the requirements.txt for both https://github.com/FooStoch/ASL_Signs_Detection and https://github.com/FooStoch/Speech_to_Text. 
